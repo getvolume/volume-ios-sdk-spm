@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VolumePayComponent",
-            url: "https://github.com/getvolume/volume-ios-sdk-spm/releases/download/3.0.1/VolumePayComponent.xcframework.zip",
-            checksum: "f33222a117509d78752bcc94044adc82558cf7117539f9b36a86e9d819ced891"
+            url: "https://github.com/getvolume/volume-ios-sdk-spm/releases/download/3.1.0-rc.1/VolumePayComponent.xcframework.zip",
+            checksum: "0f873b2611b11969766d036416eca5424b3ce0f59272a53d14ea3f7eb2787501"
         ),
     ]
 )
